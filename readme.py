@@ -1,3 +1,4 @@
+#mon premier projet moyenne
 n1=float(input(("note1= ")))
 n2=float(input(("note2= ")))
 n3=float(input(("note3= ")))
